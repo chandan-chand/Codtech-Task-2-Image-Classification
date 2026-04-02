@@ -68,3 +68,7 @@ model.save("image_classification_model.keras")
 
 ## 📚 Conclusion
 This project demonstrates how deep learning can be used to classify images by learning meaningful patterns and features from data.
+
+Author
+
+Chandan M
